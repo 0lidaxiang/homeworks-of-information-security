@@ -10,7 +10,7 @@ The detailed homework requirements is in their folder.
 
 Below is the outline about these homework.
 
-#### Homework 1 Outline
+## Homework 1 Outline
 1. Caesar cipher
 2. Monoalphabetic cipher
 3. Playfair cipher
@@ -18,11 +18,11 @@ Below is the outline about these homework.
 5. Row transposition
 6. Product cipher
 
-#### Homework 2 Outline
+## Homework 2 Outline
 Encrypt and decrypt bmp file using DES algorithms.
 And use your DES as the encryption and decryption (加解密都要) in **ECB, CBC, OFB and CTR modes**.
 
-#### Homework 3 Outline
+## Homework 3 Outline
 Implement RSA Cryption and using Square & multiply ,Chinese remainder theorem to **speed up process**.
 
 Using test( Miller-Rabin Test is recommended ) to **find large prime number** but not calling library.
