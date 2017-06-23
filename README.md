@@ -1,4 +1,7 @@
 # Homeworks-Of-Introuction-to-Information-Security
+> Author : 大祥  
+> StartTime: 2017-06-23 ，ModifyTime：2017-06-23
+
 This is the Homeworks-Of-Introuction-to-Information-Security Course of 2017 Spring Course in NTUST.This course is from February 20, 2017 to the end of June, 2017.  
 
 These homeworks use C++(HW1,HW2) and Python(HW3) programming language.  
